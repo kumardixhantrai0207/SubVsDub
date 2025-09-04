@@ -18,8 +18,8 @@ The analysis covers global, regional, generational, and fan engagement differenc
 
 ## 📂 Repo Structure
 - `notebooks/` → analysis code
-- `figures/` → generated charts
-- `report/` → final written report
+- `charts/` → generated charts
+- `reports/` → final written report
 - `requirements.txt` → dependencies
 
 ## 🚀 How to Run
